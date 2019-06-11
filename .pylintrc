@@ -1,0 +1,8 @@
+[FORMAT]
+good-names=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,h1,h2,mu,c1,g1,c2,g2,el,dl,it,ss,gt,ax,x1,x2,x3,im,so
+
+[TYPECHECK]
+ignored-modules=numpy,cv2,tensorpack
+
+[MESSAGES CONTROL]
+disable=too-few-public-methods,too-many-locals,too-many-arguments,too-many-instance-attributes,dangerous-default-value,too-many-statements
